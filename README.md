@@ -1,4 +1,4 @@
-# LaserFlow - Smart Laser/CNC Workshop Manager
+# 🖥 LaserFlow - Smart Laser/CNC Workshop Manager
 
 <div align="center">
 
